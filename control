@@ -1,0 +1,9 @@
+Package: com.idevicehacked.colorswithces
+Name: ColorSwitches
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: LucifersCircle <luciferscircle@gmail.com>
+Author: LucifersCircle <luciferscircle@gmail.com>
+Section: Tweaks
